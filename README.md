@@ -1,10 +1,29 @@
 # 💫 About Me:
-I'm currently working on: <br>Online discussion thread summarization using LSTM and clustering techniques.<be>
-I'm looking to collaborate on:<br>Projects related to Natural Language Processing (NLP), text summarization, fake news and hate speech detection or sentiment analysis.<br>Machine learning applications with a focus on text data.<be>
-I'm currently learning:<br>Machine Learning, Deep Learning, NLP and LLMs.<br>Text summarization approaches include extractive and abstractive methods.<be>
-Ask me about:<br>Text-based research, including NLP techniques, clustering, and summarization.<br>My experience applying for international scholarships (CSC, GKS, MEXT).<be>
-Fun fact:<br>I’m passionate about exploring underrepresented languages in AI, and I’m currently working on making machines better understand Urdu.<br>
 
+**👨‍💻 I'm currently working on:**
+- **Online discussion thread summarization** using LSTM and clustering techniques.
+
+**🤝 I'm looking to collaborate on:**
+- Projects related to **Natural Language Processing (NLP)**: 
+  - Text summarization
+  - Fake news & hate speech detection
+  - Sentiment analysis
+- Machine learning applications focused on text data.
+
+**📚 I'm currently learning:**
+- **Machine Learning**, **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**.
+- Exploring both **extractive** and **abstractive** text summarization techniques.
+
+**🧠 Ask me about:**
+- **Text-based research**, including:
+  - NLP techniques
+  - Clustering
+  - Summarization
+- **International scholarships** (CSC, GKS, MEXT).
+
+**🎉 Fun fact:**
+- I’m passionate about exploring **underrepresented languages** in AI.
+- Currently working on improving **machine understanding of Urdu**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wings4scholars?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wings4scholars?igsh=ODFsZWN3ZHFidGly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tila-muhammad-b77498240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@tm.913.se.icup) 
