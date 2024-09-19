@@ -1,5 +1,9 @@
 # 💫 About Me:
-1. I'm currently working on:<br>Online discussion thread summarization using LSTM and clustering techniques.<br>2. I'm looking to collaborate on:<br>Projects related to Natural Language Processing (NLP), text summarization, fake news and hate speech detection or sentiment analysis.<br>Machine learning applications with a focus on text data.<br>3. I'm currently learning:<br>Machine Learning, Deep Learning, NLP and LLMs.<br>Text summarization approaches include extractive and abstractive methods.<br>4. Ask me about:<br>Text-based research, including NLP techniques, clustering, and summarization.<br>My experience applying for international scholarships (CSC, GKS, MEXT).<br>Fun fact:<br>I’m passionate about exploring underrepresented languages in AI, and I’m currently working on making machines better understand Urdu.<br>
+I'm currently working on: <br>Online discussion thread summarization using LSTM and clustering techniques.<be>
+I'm looking to collaborate on:<br>Projects related to Natural Language Processing (NLP), text summarization, fake news and hate speech detection or sentiment analysis.<br>Machine learning applications with a focus on text data.<be>
+I'm currently learning:<br>Machine Learning, Deep Learning, NLP and LLMs.<br>Text summarization approaches include extractive and abstractive methods.<be>
+Ask me about:<br>Text-based research, including NLP techniques, clustering, and summarization.<br>My experience applying for international scholarships (CSC, GKS, MEXT).<be>
+Fun fact:<br>I’m passionate about exploring underrepresented languages in AI, and I’m currently working on making machines better understand Urdu.<br>
 
 
 ## 🌐 Socials:
