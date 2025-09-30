@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 **👨‍💻 I'm currently working on:**
-- **Online discussion thread summarization** using LSTM and clustering techniques.
+- **Spelling Variations in Sentiment Analysis** using LSTM and clustering techniques.
 
 **🤝 I'm looking to collaborate on:**
 - Projects related to **Natural Language Processing (NLP)**: 
@@ -19,7 +19,7 @@
   - NLP techniques
   - Clustering
   - Summarization
-- **International scholarships** (CSC, GKS, MEXT).
+- **International scholarships** (CSC, K-GKS, GKS, MEXT, MTCP, MIS).
 
 **🎉 Fun fact:**
 - I’m passionate about exploring **underrepresented languages** in AI.
