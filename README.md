@@ -1,7 +1,9 @@
 # 💫 About Me:
 
 **👨‍💻 I'm currently working on:**
-- **Spelling Variations in Sentiment Analysis** using LSTM and clustering techniques.
+- **Driver Drowsiness Detection** using Deep Learning.
+- **Text Summarization with Transformer** 
+- **Multi-Lingual Sentiment Analysis** using Transformer.
 
 **🤝 I'm looking to collaborate on:**
 - Projects related to **Natural Language Processing (NLP)**: 
