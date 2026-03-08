@@ -3,7 +3,7 @@
 **👨‍💻 I'm currently working on:**
 - **Driver Drowsiness Detection** using Deep Learning.
 - **Text Summarization with Transformer** 
-- **Multi-Lingual Sentiment Analysis** using Transformer.
+- **Tensor Fusion Network for Multimodal Sentiment Analysis**
 
 **🤝 I'm looking to collaborate on:**
 - Projects related to **Natural Language Processing (NLP)**: 
